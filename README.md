@@ -1,2 +1,2 @@
 # Snek-Game
-Be a snek if you dare.
+Miners eat first. Be a snek if you dare. Entropy.
